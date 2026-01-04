@@ -4,11 +4,12 @@
 
 ## 🌸 About Me
 
-I’m a passionate Computer Science Bachelor's student from Pretoria, South Africa, with a strong interest in software development and artificial intelligence. I thrive on building meaningful, real-world projects that make a difference.
+I’m a Software Engineer based in Pretoria, South Africa, currently working in enterprise B2B SaaS with a focus on automation and scalable business systems. I enjoy building reliable software that streamlines complex workflows and supports real-world organizational needs.
 
-   - Specializing in Software Engineering with a focus on AI and Machine Learning.
-   - Skilled in C#, JavaScript, Python, and modern web development technologies.
-   - Fascinated by innovative, intelligent systems that solve real-world challenges.
+   - Software Engineer specializing in automation and enterprise systems.
+   - Experience building scalable, cloud-based B2B applications.
+   - Strong background in AI, Machine Learning, and data-driven solutions.
+   - Passionate about structured processes, system integration, and clean, maintainable code.
 
 
 ## 💻 Skills & Technologies
